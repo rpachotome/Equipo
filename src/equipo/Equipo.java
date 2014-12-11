@@ -19,7 +19,7 @@ public class Equipo {
         x=10;
         z=x+y;
 
-        System.out.println("Aqui haciendo un programa\nYa que en estudios elegimos esta rama\nPero se sabe quien en esto no es el rey\n Pues aitor es gay");
+        System.out.println("Pueeeees sep");
     }
 
 }
