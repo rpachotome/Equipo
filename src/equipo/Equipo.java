@@ -11,7 +11,14 @@ public class Equipo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Mensaje para pacho");
+           System.out.println("Mensaje para pacho");
+        
+        int x=5;
+        int y=6;
+         int z=x+y;
+         
+    
+        System.out.println("Aqui haciendo un programa\nYa que en estudios elegimos esta rama\nPero se sabe quien en esto no es el rey\n Pues aitor es gay");
     }
     
 }
